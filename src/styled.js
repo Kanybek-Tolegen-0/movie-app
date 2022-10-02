@@ -40,9 +40,9 @@ export const IconStyledFirst = styled(Icon)`
     position: absolute;
     left: 20px;
     top: 10px;
-    animation: ${animationFirst} 5s 0.5s;
+    animation: ${animationFirst} 4.5s 0.5s;
 `
 
 export const IconStyledSecond = styled(Icon)`
-    animation: ${animationSecond} 4s 0.5s;
+    animation: ${animationSecond} 3s 0.5s;
 `
