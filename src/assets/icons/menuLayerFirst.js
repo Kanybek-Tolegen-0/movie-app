@@ -1,6 +1,6 @@
 export const menuLayerFirst = {
-    width: 46,
-    height: 56,
+    width: 44.15,
+    height: 50.46,
     fill: 'none',
     path: [
         {
