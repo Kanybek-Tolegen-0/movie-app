@@ -1,6 +1,6 @@
 import { keyframes } from '@emotion/react';
 import styled from '@emotion/styled';
-import { Icon } from './components/atoms';
+import { Icon } from '..';
 
 const animationFirst = keyframes`
 0 {
