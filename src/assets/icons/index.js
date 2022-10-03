@@ -11,6 +11,9 @@ import { tv } from './tv';
 import { clock } from './clock';
 import { menuLayerSecond } from './menuLayerSecond';
 import { menuLayerFirst } from "./menuLayerFirst";
+import { home } from './home';
+import { movie } from "./movie";
+import { starEmpty } from './starEmpty';
 
 export const icons = {
     arrowUp,
@@ -26,4 +29,7 @@ export const icons = {
     clock,
     menuLayerFirst,
     menuLayerSecond,
+    home,
+    movie,
+    starEmpty,
 }
